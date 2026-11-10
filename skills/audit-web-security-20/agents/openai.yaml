@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Security Audit: 20 Checks"
+  short_description: "Evidence-based web security audit of 20 common risks"
+  default_prompt: "Use $audit-web-security-20 to audit the latest main branch against all 20 checks, report verified findings, and preserve legitimate usage."
